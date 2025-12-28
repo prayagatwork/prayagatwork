@@ -1,6 +1,5 @@
-Here is a professional GitHub profile README format based on your resume and current role.
 
-# Hi there, I'm Prayag B. Thaker! 👋
+# Hi there, I'm Prayag Thaker! 👋
 
 I am a Software Development Engineer and researcher based in India. I am currently pursuing a B.Tech in Information and Communication Technology at Pandit Deendayal Energy University, maintaining a CGPA of 9.59. My passion lies in building scalable web applications and solving complex problems using Machine Learning and Computer Vision.
 
