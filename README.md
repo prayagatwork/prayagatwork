@@ -12,19 +12,15 @@ Beyond coding, I served as the Vice President of the GeeksForGeeks PDEU Chapter,
 
 ## 🛠️ Technical Skills
 
-* 
 **Languages:** Python, Java, JavaScript, SQL, Bash 
 
 
-* 
 **Web Development:** React.js, Node.js, Express.js, MongoDB, Flask, Django, RESTful APIs 
 
 
-* 
 **Machine Learning:** TensorFlow, PyTorch, Scikit-learn, XGBoost, LightGBM, Pandas, NumPy 
 
 
-* 
 **Tools & Platforms:** Git, GitHub, Docker, AWS, Firebase, CI/CD, Unix/Linux 
 
 
@@ -32,19 +28,9 @@ Beyond coding, I served as the Vice President of the GeeksForGeeks PDEU Chapter,
 ## 💼 Work Experience
 
 * **SDET Intern** at Fynd (Current)
-* 
 **Machine Learning Research Intern** at **ISRO** (May 2025 - Jul 2025) 
-
-
 * Analyzed atmospheric parameters to improve lightning prediction and automated data ingestion pipelines.
-
-
-
-
-* 
 **Software Engineer Intern** at **Deepak Foundation** (Jun 2023 - Jul 2023) 
-
-
 * Built automated Python pipelines for data visualization and reporting.
 
 
@@ -53,43 +39,19 @@ Beyond coding, I served as the Vice President of the GeeksForGeeks PDEU Chapter,
 
 ## 🔭 Featured Projects & Research
 
-* 
 **Empty Room:** A classroom finder web app with 500+ monthly users that reduced scheduling conflicts by 60%.
 
 
-* 
 **Intelligent Traffic Signal System:** A real-time vehicle density detector using OpenCV that reduced simulated wait times by 35%.
 
 
 * **Research:**
-* 
 *AutoCAS:* Automated Classroom Attendance System (IEEE SETCOM 2025).
-
-
-* 
 *Space Weather Forecasting:* Peer-reviewed journal paper submitted to Elsevier.
-
-
-
-
 
 ## 📫 Connect with Me
 
-* 
-**Email:** prayagatwork1@gmail.com 
-
-
-* 
-**LinkedIn:** prayagthaker 
-
-
-* 
-**GitHub:** prayagatwork 
-
-
-
-Would you like me to generate a specific "How to reach me" code snippet for the contact section?
-
+* **Email:** prayagatwork1@gmail.com | **LinkedIn:** prayagthaker | **GitHub:** prayagatwork 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PrayagThaker) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prayagatwork1@gmail.com) 
